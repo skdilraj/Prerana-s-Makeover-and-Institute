@@ -1,0 +1,31 @@
+Check Status
+See changed files:
+    # git status
+
+Save Changes
+After editing code:
+
+    #git add .
+    #git commit -m "update project"
+    #git push
+
+Download Latest Code From Team
+Very important for collaboration:
+
+    #git pull origin main
+
+Create New Branch
+Best practice for team work:
+
+    #git checkout -b feature-login
+
+Switch Branch
+    #git checkout branch_name
+
+Push New Branch
+    #git push -u origin feature-login
+
+Merge Branch
+First go to main:
+
+    #git checkout main

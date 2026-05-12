@@ -23,7 +23,7 @@ Switch Branch
     #git checkout branch_name
 
 Push New Branch
-    #git push -u origin feature-login
+    #git push -u origin branch_name
 
 Merge Branch
 First go to main:
